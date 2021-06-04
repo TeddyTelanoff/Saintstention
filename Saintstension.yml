@@ -1,13 +1,17 @@
+Lhyrf:
+	noun:
+		desc: Correctifying
+
 Lhyrphez:
 	noun:
 		desc: Thinking you didn't do something, then realizing you did that already.
 	verb: Lhyphing
-		desc: Thinking you didn't do somthing, so you're retracing your steps.
+		desc: Thinking you didn't do something, so you're retracing your steps.
 
-Lhyrphra:
+Lhyrfra:
 	noun:
 		desc: When you're in the process of explaining/talking about something, then forget what you are talking about.
-	verb: Lyrphraing
+	verb: Lyrfraing
 
 Loltz:
 	noun:
@@ -23,10 +27,9 @@ Tanket:
 	noun:
 		desc: A threat that is not meant to be a threat.
 
-Plampen:
+Plape:
 	adj:
-		desc: Sticking out
-	noun: Plapemt
+		desc: Sticks out
 
 Tomorroworrow:
 	noun:
