@@ -1,6 +1,8 @@
 Lhyrf:
 	noun:
-		desc: Correctifying; Nonsense
+		desc: Nonsense
+	verb:
+		desc: Correctify
 
 Lhyrphez:
 	noun:
